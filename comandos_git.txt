@@ -3,5 +3,6 @@ COMANDOS GIT BASH:
 2. Git add: Añade un archivo o varios al área de ensayo, para hacer el seguimiento.
 3. git commit: Añade los archivos que están en el área de ensayo al repositorio local. 
 4. git reset --hard [id del commit]. Restaura el archivo al estado que tenía en el id del commit.
-5. git commit -am. (add + commit)
+5. git commit -am. (add + commit).
+6. git pull Para traer los cambios en el repositorio del github.
 
